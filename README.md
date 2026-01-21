@@ -85,7 +85,7 @@ Je crois fermement que :
 
 
 
-### **Teller (Caissier)**  
+### **Charge des operations**  
 **UBA Group** | Ouagadougou  
 📅 Mai 2024 – Juillet 2024  
 - Traitement des opérations bancaires courantes
